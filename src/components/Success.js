@@ -10,13 +10,13 @@ function Success() {
           <img src={Confetti} alt="confetti "/>
 
           <h1>ჩანაწერი დამატებულია!</h1>
-          <Link to={"/recordlist"}>
+          <Link to={"/PCfy/recordlist"}>
           <Button variant="primary" className={"d-block  me-auto d-flex btnreverse"}> 
               სიაში გადაყვანა
           </Button>
           </Link>
 
-          <Link to={"/"}>
+          <Link to={"/PCfy"}>
              <Button variant="primary" className={"d-block btnnext me-auto d-flex"}> 
               მთავარი
           </Button>
