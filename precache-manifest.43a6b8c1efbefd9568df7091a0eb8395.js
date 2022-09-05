@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f7541e54d2263326171a",
-    "url": "/PCfy/static/css/main.6ec91933.chunk.css"
+    "revision": "f795fb413f8c8e08c5cb",
+    "url": "/PCfy/static/css/main.ce74bc80.chunk.css"
   },
   {
-    "revision": "f7541e54d2263326171a",
-    "url": "/PCfy/static/js/main.f7541e54.chunk.js"
+    "revision": "f795fb413f8c8e08c5cb",
+    "url": "/PCfy/static/js/main.f795fb41.chunk.js"
   },
   {
     "revision": "d7979459db3fa557c29a",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/PCfy/static/media/logo-round.62fe69ae.svg"
   },
   {
-    "revision": "fb1d0d4d387eeedf1433d05ad61aa92f",
+    "revision": "3c74b3a049a20c1de19ae92e2ec153e9",
     "url": "/PCfy/index.html"
   }
 ];
