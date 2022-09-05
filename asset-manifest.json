@@ -1,7 +1,7 @@
 {
   "main.css": "/PCfy/static/css/main.6ec91933.chunk.css",
-  "main.js": "/PCfy/static/js/main.4b80acf9.chunk.js",
-  "main.js.map": "/PCfy/static/js/main.4b80acf9.chunk.js.map",
+  "main.js": "/PCfy/static/js/main.fde359f4.chunk.js",
+  "main.js.map": "/PCfy/static/js/main.fde359f4.chunk.js.map",
   "static/js/1.d7979459.chunk.js": "/PCfy/static/js/1.d7979459.chunk.js",
   "static/js/1.d7979459.chunk.js.map": "/PCfy/static/js/1.d7979459.chunk.js.map",
   "runtime~main.js": "/PCfy/static/js/runtime~main.0fc25bc4.js",
@@ -13,6 +13,6 @@
   "static/media/logo-round.svg": "/PCfy/static/media/logo-round.62fe69ae.svg",
   "static/css/main.6ec91933.chunk.css.map": "/PCfy/static/css/main.6ec91933.chunk.css.map",
   "index.html": "/PCfy/index.html",
-  "precache-manifest.03b3fa2fcbf3a94719cee0572687b1d9.js": "/PCfy/precache-manifest.03b3fa2fcbf3a94719cee0572687b1d9.js",
+  "precache-manifest.18369ec65f2bef3c19de8faf7d850161.js": "/PCfy/precache-manifest.18369ec65f2bef3c19de8faf7d850161.js",
   "service-worker.js": "/PCfy/service-worker.js"
 }
