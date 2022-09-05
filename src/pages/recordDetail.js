@@ -11,7 +11,7 @@ import Goback from '../components/GoBackBtn'
 
 function recordDetail() {
     let location = useLocation()
-    let token = "5b82dd95e9242fd358e426ebfdfc3315"
+    let token = "3ebff5ab018b0675ff671820082b2cb7"
     let id = location.pathname.split("id=")[1]
 
     let [ laptopDetails, setlaptopDetails ] = useState([])

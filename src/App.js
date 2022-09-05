@@ -16,10 +16,10 @@ function App() {
       {
       <div className="App">
         <Routes>
-            <Route path="/PCfy/" element={<LandingPage />}/>
-            <Route path="/PCfy/fillform" element={<Fillform />}/>
-            <Route path="/PCfy/recordlist" element={<Recordlist />}/>
-            <Route path="/PCfy/recordlist/*" element={<RecordDetails />}/>
+            <Route path="/" element={<LandingPage />}/>
+            <Route path="/fillform" element={<Fillform />}/>
+            <Route path="/recordlist" element={<Recordlist />}/>
+            <Route path="/recordlist/*" element={<RecordDetails />}/>
         </Routes>
       </div>
       }

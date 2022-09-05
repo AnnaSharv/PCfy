@@ -117,7 +117,8 @@ let send = useRef()
       let filteredPositions = []
     
       positions.filter((position, i) =>{ 
-        return position.team_id === activeTeamId && filteredPositions.push([position.name, position.id])
+   
+        return position.team_id == activeTeamId && filteredPositions.push([position.name, position.id])
       })
 
       setFilteredPositions(filteredPositions)
@@ -165,7 +166,7 @@ let send = useRef()
   const onSubmit = () => {
     let formData = new FormData();
     let form = getValues()
-    form.token = "5b82dd95e9242fd358e426ebfdfc3315"
+    form.token = "3ebff5ab018b0675ff671820082b2cb7"
 
     //let file = e.target.files[0]
     // ასე loop-ით არ ქნა, რავიცი
