@@ -18,7 +18,10 @@ body {
   padding:0;
   box-sizing: border-box;
 }
-
+.input-upload {
+  position:absolute;
+  bottom: 0
+}
 .form-control:focus, select:focus, button {
   box-shadow: none !important;
 }

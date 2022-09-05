@@ -427,7 +427,7 @@ let send = useRef()
 
                       <img src={displayImg} alt="uploaded_img" />
                       {/* !!! */}
-                      <input type="file" id="input" 
+                      <input type="file" id="input" className='input-upload'
                       accept='image/*'
                          {...register("laptop_image", 
                          { required: {value: true, message:"შეავსე ველი"},
